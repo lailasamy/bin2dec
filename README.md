@@ -28,6 +28,3 @@ This project is a simple web-based Binary to Decimal Converter. It allows users 
 
 Feel free to fork this repository and submit pull requests with improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
