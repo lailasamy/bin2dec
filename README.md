@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binary to Decimal Converter
 
 ## Overview
@@ -28,3 +29,6 @@ This project is a simple web-based Binary to Decimal Converter. It allows users 
 
 Feel free to fork this repository and submit pull requests with improvements or bug fixes.
 
+=======
+# bin2dec
+>>>>>>> e0bb11e74b9e9b2885dd9251a30ed107b9a0193e
