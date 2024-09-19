@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Binary to Decimal Converter
 
 ## Overview
